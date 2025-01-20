@@ -1,16 +1,16 @@
 # 🎬 Movie Recommender System (TMDb Dataset)
 
-Welcome to the **Movie Recommender System**! This project leverages the **TMDb (The Movie Database)** dataset to recommend movies to users based on their preferences. The system uses both **Collaborative Filtering** and **Content-Based Filtering** techniques to suggest the best movies.
+Welcome to the **Movie Recommender System**! This project leverages the **TMDb (The Movie Database)** dataset to recommend movies to users based on their preferences. The system uses **Content-Based Filtering** techniques to suggest the best movies.
 
 ## 🌟 Features
 
-- **Movie Data:** Uses detailed movie data like title, genre, ratings, and more from the TMDb dataset.
+- **Movie Data:** Uses detailed movie data like title, genre, crew , cast and more from the TMDb dataset.
 - **Recommendation Algorithms:**  
-  - Collaborative Filtering (based on user-item interactions)
   - Content-Based Filtering (based on movie features)
+  - Cosine similarity
 - **User Preferences:** Recommends movies tailored to user preferences or similar movie choices.
 
-## 📸 **Preview**
+## 📸 **Preview-Two Examples**
 <p align="center">
   <img src="images/spiderman.png" alt="Spider-Man" width="550"/>
   <img src="images/avengers.png" alt="Avengers" width="450"/>
@@ -40,7 +40,7 @@ To use the Movie Recommender System, follow these steps:
 
 4. **Receive Recommendations**
 
-5. **(Optional) Deploy the System**
+5. **Visualise movie recommendations as webApp**
 
 
 
@@ -50,13 +50,13 @@ To use the Movie Recommender System, follow these steps:
 - **Python** for backend development
 - **Pandas** and **Numpy** for data processing
 - **Scikit-learn** for machine learning algorithms
-- **Flask** (optional, if used for deployment)
+- **Streamlit integration** An interactive web app for real-time movie recommendations
+- **pickle** To save data
 
 ## 📝 Acknowledgments
 
 - **TMDb (The Movie Database)** for providing the movie dataset.
 - **Scikit-learn** for offering machine learning tools and algorithms.
-- Inspiration from various recommender system research papers and tutorials.
 
 ---
 
