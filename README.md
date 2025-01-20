@@ -10,6 +10,12 @@ Welcome to the **Movie Recommender System**! This project leverages the **TMDb (
   - Content-Based Filtering (based on movie features)
 - **User Preferences:** Recommends movies tailored to user preferences or similar movie choices.
 
+## Spider-Man Recommendations
+![Spider-Man Recommendations](images/spiderman.png)
+
+## The Avengers Recommendations
+![The Avengers Recommendations](images/avengers.png)
+
 ## 📥 Installation
 
 To get started, follow these steps:
@@ -34,6 +40,7 @@ To use the Movie Recommender System, follow these steps:
 4. **Receive Recommendations**
 
 5. **(Optional) Deploy the System**
+
 
 
 
