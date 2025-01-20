@@ -12,8 +12,8 @@ Welcome to the **Movie Recommender System**! This project leverages the **TMDb (
 
 ## 📸 **Preview-Two Examples**
 <p align="center">
-  <img src="images/spiderman.png" alt="Spider-Man" width="550"/>
-  <img src="images/avengers.png" alt="Avengers" width="450"/>
+  <img src="images/spiderman.png" alt="Spider-Man" width="530"/>
+  <img src="images/avengers.png" alt="Avengers" width="460"/>
 </p>
 
 
