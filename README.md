@@ -11,10 +11,11 @@ Welcome to the **Movie Recommender System**! This project leverages the **TMDb (
 - **User Preferences:** Recommends movies tailored to user preferences or similar movie choices.
 
 ## Spider-Man Recommendations
-![Spider-Man Recommendations](images/spiderman.png)
+<p align="center">
+  <img src="assets/spiderman.png" alt="Spider-Man" width="300"/>
+  <img src="assets/avengers.png" alt="Avengers" width="300"/>
+</p>
 
-## The Avengers Recommendations
-![The Avengers Recommendations](images/avengers.png)
 
 ## 📥 Installation
 
