@@ -10,7 +10,7 @@ Welcome to the **Movie Recommender System**! This project leverages the **TMDb (
   - Content-Based Filtering (based on movie features)
 - **User Preferences:** Recommends movies tailored to user preferences or similar movie choices.
 
-## Spider-Man Recommendations
+## 📸 **Preview**
 <p align="center">
   <img src="images/spiderman.png" alt="Spider-Man" width="550"/>
   <img src="images/avengers.png" alt="Avengers" width="450"/>
